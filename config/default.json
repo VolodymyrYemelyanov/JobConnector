@@ -1,4 +1,5 @@
 // my MongoDB with pass
 {
-    "mongoURI": "mongodb+srv://vlad123:vlad123@workconnector-0iar5.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://vlad123:vlad123@workconnector-0iar5.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
 }
