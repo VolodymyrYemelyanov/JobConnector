@@ -67,7 +67,7 @@ router.post(
 
       // Return jsonwebtoken
       const payload = {
-        uwer: {
+        user: {
           id: user.id
         }
       };
